@@ -1,9 +1,20 @@
 # Two Stones Theme
-------------------
-## HTML screenshot
+
+Color scheme for Sublime Text Editor.
+
+## HTML
 
 ![HTML screenshot](screenshot-html.png)
 
-## CSS screenshot
+## CSS
 
 ![CSS screenshot](screenshot-css.png)
+
+<!-- ## Ruby
+
+![RUBY screenshot](screenshot-ruby.png)
+
+## PhP
+
+![PHP screenshot](screenshot-php.png) -->
+
