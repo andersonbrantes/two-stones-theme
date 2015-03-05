@@ -12,9 +12,9 @@ Color scheme for Sublime Text Editor.
 
 <!-- ## Ruby
 
-![RUBY screenshot](screenshot-ruby.png)
+![RUBY screenshot](screenshot-ruby.png) -->
 
 ## PhP
 
-![PHP screenshot](screenshot-php.png) -->
+![PHP screenshot](screenshot-php.png)
 
