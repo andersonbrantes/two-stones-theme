@@ -17,3 +17,7 @@ Two Stones is a color scheme for Sublime Text Editor was created with an emphasi
 ## PhP
 
 ![PHP screenshot](screenshot-php.png)
+
+## Javascript
+
+![Javascript screenshot](screenshot-javascript.png)
