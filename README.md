@@ -1,6 +1,8 @@
-# Two Stones Theme
+# Two Stones color scheme
 
-Color scheme for Sublime Text Editor.
+
+Two Stones is a color scheme for Sublime Text Editor was created with an emphasis on being easy on the eyes with crisp and clear contrast.
+
 
 ## HTML / CSS
 
