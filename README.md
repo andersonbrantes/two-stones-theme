@@ -2,13 +2,9 @@
 
 Color scheme for Sublime Text Editor.
 
-## HTML
+## HTML / CSS
 
-![HTML screenshot](screenshot-html.png)
-
-## CSS
-
-![CSS screenshot](screenshot-css.png)
+![HTML screenshot](screenshot-html-css.png)
 
 <!-- ## Ruby
 
@@ -17,4 +13,3 @@ Color scheme for Sublime Text Editor.
 ## PhP
 
 ![PHP screenshot](screenshot-php.png)
-
